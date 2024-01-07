@@ -38,6 +38,9 @@ Any advise for common problems or issues please contact me.
 ## Authors
 
 Shoriful Islam
+
 Github: [@shorifulislam00](https://github.com/shorifulislam00/) 
+
 Facebook: [@Shoriful Islam](https://www.facebook.com/shorifulislam433) 
+
 Email: shorifulislam433@gmail.com
